@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b40c56cdb22d3651789036119ed4e8e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mohit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6567f8d5dba089b451967a7c9756691a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/06a559d0783ff15ce3f3bf8264dfbcfd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9562fabf89ea89757c556ce9d79693cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/af7ab626946dd0308122b2e7a73b5822/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9b69d7e7f6b5f8d052fa8958a3a4ea99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7bb8135b76f9029ca03df074f6f6c308/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c689c3899c4f0a27a8a5362f24604894/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fc4c6d3ade44e58a7391bb64d22bf2a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9d07f12ecad559c6d47c119fb4cca5ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0a6971ea99c2d5f9ff7115daf517c841/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/52a2772dd3bcefffd8e9f5771f24e6ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bcb1a1ddd0909e3a3a9f683157c12b75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0144a60acbaba247b4408fa93f86576b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ad70c686b6b88f1e7a40cb4415410257/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c2ac3bb8f9a91ce729fd316cca55418/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/aa0b6faf5c167a9c71d4eaf5c5d7ffc7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9ec9e2ea40ed2ea9bfc8c9df0babbc9c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/mohit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6c3b7ba074ba095170409806aa083599/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fb62d2abefe7fcbb9004b68771002ecf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f7c604f59132cd753d32383369d164f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/557fe568068f12c369cd0d55130df1c2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/mohit/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0ac2960936a0accd67d6f93e28d301b4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/mohit/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/513ffced3edd1a6e53f70fa3e857d8f5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/mohit/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/15c11574db97845da72f66b1edbf216e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/mohit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7bb870169ce8c6e4d30ff7479503de96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4305d1a52b2af408a7d7ac0337c4caa3/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml
+		ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml
+		ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mohit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6567f8d5dba089b451967a7c9756691a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mohit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6567f8d5dba089b451967a7c9756691a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c2ac3bb8f9a91ce729fd316cca55418/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c2ac3bb8f9a91ce729fd316cca55418/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/aa0b6faf5c167a9c71d4eaf5c5d7ffc7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/aa0b6faf5c167a9c71d4eaf5c5d7ffc7/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c2ac3bb8f9a91ce729fd316cca55418/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.mohit.digitalclassroom.MainActivity
+ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.mohit.digitalclassroom.LoginPage
+ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:19:9-56
+	android:name
+		ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml:19:19-44
+uses-sdk
+INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml
+INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b40c56cdb22d3651789036119ed4e8e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b40c56cdb22d3651789036119ed4e8e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mohit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6567f8d5dba089b451967a7c9756691a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mohit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6567f8d5dba089b451967a7c9756691a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/06a559d0783ff15ce3f3bf8264dfbcfd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/06a559d0783ff15ce3f3bf8264dfbcfd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9562fabf89ea89757c556ce9d79693cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9562fabf89ea89757c556ce9d79693cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/af7ab626946dd0308122b2e7a73b5822/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/af7ab626946dd0308122b2e7a73b5822/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9b69d7e7f6b5f8d052fa8958a3a4ea99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9b69d7e7f6b5f8d052fa8958a3a4ea99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7bb8135b76f9029ca03df074f6f6c308/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7bb8135b76f9029ca03df074f6f6c308/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c689c3899c4f0a27a8a5362f24604894/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c689c3899c4f0a27a8a5362f24604894/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fc4c6d3ade44e58a7391bb64d22bf2a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fc4c6d3ade44e58a7391bb64d22bf2a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9d07f12ecad559c6d47c119fb4cca5ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9d07f12ecad559c6d47c119fb4cca5ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0a6971ea99c2d5f9ff7115daf517c841/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0a6971ea99c2d5f9ff7115daf517c841/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/52a2772dd3bcefffd8e9f5771f24e6ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/52a2772dd3bcefffd8e9f5771f24e6ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bcb1a1ddd0909e3a3a9f683157c12b75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bcb1a1ddd0909e3a3a9f683157c12b75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0144a60acbaba247b4408fa93f86576b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0144a60acbaba247b4408fa93f86576b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ad70c686b6b88f1e7a40cb4415410257/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ad70c686b6b88f1e7a40cb4415410257/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c2ac3bb8f9a91ce729fd316cca55418/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c2ac3bb8f9a91ce729fd316cca55418/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/aa0b6faf5c167a9c71d4eaf5c5d7ffc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/aa0b6faf5c167a9c71d4eaf5c5d7ffc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9ec9e2ea40ed2ea9bfc8c9df0babbc9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9ec9e2ea40ed2ea9bfc8c9df0babbc9c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/mohit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6c3b7ba074ba095170409806aa083599/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/mohit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6c3b7ba074ba095170409806aa083599/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fb62d2abefe7fcbb9004b68771002ecf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fb62d2abefe7fcbb9004b68771002ecf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f7c604f59132cd753d32383369d164f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f7c604f59132cd753d32383369d164f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/557fe568068f12c369cd0d55130df1c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/557fe568068f12c369cd0d55130df1c2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/mohit/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0ac2960936a0accd67d6f93e28d301b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/mohit/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0ac2960936a0accd67d6f93e28d301b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/mohit/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/513ffced3edd1a6e53f70fa3e857d8f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/mohit/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/513ffced3edd1a6e53f70fa3e857d8f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/mohit/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/15c11574db97845da72f66b1edbf216e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/mohit/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/15c11574db97845da72f66b1edbf216e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/mohit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7bb870169ce8c6e4d30ff7479503de96/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/mohit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7bb870169ce8c6e4d30ff7479503de96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4305d1a52b2af408a7d7ac0337c4caa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/mohit/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4305d1a52b2af408a7d7ac0337c4caa3/AndroidManifest.xml:20:5-44
+INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml
+INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml
+		ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml
+		ADDED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mohit/AndroidStudioProjects/DigitalClassroom/app/src/main/AndroidManifest.xml
